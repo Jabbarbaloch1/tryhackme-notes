@@ -1,6 +1,6 @@
 # What is Session Management ?
 
-![image.png](What%20is%20Session%20Management/image.png)
+![image.png](images/01-img1.png)
 
 ## 1. What is Session Management?
 

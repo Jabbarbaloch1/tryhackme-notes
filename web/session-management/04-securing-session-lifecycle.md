@@ -2,7 +2,7 @@
 
 Session Management Security
 
-![image.png](Securing%20Session%20LifeCycle/image.png)
+![image.png](images/04-img5.png)
 
 Session security means making sure the **session cannot be guessed, stolen, misused, or kept forever**.
 

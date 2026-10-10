@@ -2,7 +2,7 @@
 
 **Authentication vs Authorization vs Accountability**
 
-![image.png](Authentication%20vs%20Authorisation/image.png)
+![image.png](images/02-img2.png)
 
 These three concepts work together with **Session Management**.
 

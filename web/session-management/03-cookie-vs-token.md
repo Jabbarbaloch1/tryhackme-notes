@@ -2,9 +2,9 @@
 
 Cookies vs Tokens
 
-![image.png](Cookie%20Vs%20Token/image.png)
+![image.png](images/03-img3.png)
 
-![image.png](Cookie%20Vs%20Token/image%201.png)
+![image.png](images/03-img4.png)
 
 There are **two common ways** to manage a user's session:
 
